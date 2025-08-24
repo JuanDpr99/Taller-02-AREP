@@ -1,4 +1,4 @@
-# Taller 02 – Framework Web (AREP)
+<h1 align="center">Taller 02 – Framework Web (AREP)</h1>
 
 ## Descripción
 Este proyecto implementa un **mini framework web en Java**, desarrollado desde cero como parte del curso **Arquitecturas Empresariales (AREP)**.  
