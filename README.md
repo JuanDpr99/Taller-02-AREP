@@ -15,13 +15,10 @@ El objetivo es comprender la arquitectura básica de un servidor web y los proto
 1. [Características](#características)  
 2. [Requisitos](#requisitos)  
 3. [Instalación](#instalación)  
-5. [Uso](#uso)  
-6. [Arquitectura](#arquitectura)  
-7. [Pruebas](#pruebas)  
-8. [Evidencia](#evidencia)  
-9. [Autores](#autores)  
-10. [Licencia](#licencia)  
-
+4. [Uso](#uso)  
+5. [Arquitectura](#arquitectura)  
+6. [Pruebas](#pruebas)
+   
 ---
 
 ## Características
@@ -67,7 +64,7 @@ public static void main(String[] args) throws Exception {
 * http://localhost:35000/img/logo.png → Imagen estática
 * http://localhost:35000/css/styles.css → Archivo plano styles.css
 ```
-## Aquitectura
+## Arquitectura
 ```bash
 - HttpServer: servidor principal, acepta conexiones y despacha solicitudes.
 - HttpRequest: parsea parámetros de consulta de la URL.
